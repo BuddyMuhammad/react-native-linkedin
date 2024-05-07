@@ -1,18 +1,18 @@
 {
-  "name": "@smuxx/react-native-linkedin",
+  "name": "@BuddyMuhammad/react-native-linkedin",
   "version": "2.1.1",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "description": "React-Native LinkedIn, a simple LinkedIn login library for React-Native with WebView and Modal",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smuxx/react-native-linkedin.git"
+    "url": "git+https://github.com/BuddyMuhammad/react-native-linkedin.git"
   },
-  "author": "Xavier Carpentier <xcapetir@gmail.com> (https://xaviercarpentier.com/)",
+  "author": "BuddyMuhammad <muhammadasif@buddyboss.com> (https://buddyboss.com.com/)",
   "bugs": {
-    "url": "https://github.com/smuxx/react-native-linkedin/issues"
+    "url": "https://github.com/BuddyMuhammad/react-native-linkedin/issues"
   },
-  "homepage": "https://github.com/smuxx/react-native-linkedin",
+  "homepage": "https://github.com/BuddyMuhammad/react-native-linkedin",
   "license": "MIT",
   "scripts": {
     "start": "yarn config:dev && expo start",
