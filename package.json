@@ -1,5 +1,5 @@
 {
-  "name": "@BuddyMuhammad/react-native-linkedin",
+  "name": "react-native-linkedin",
   "version": "2.1.1",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
